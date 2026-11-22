@@ -1,0 +1,11 @@
+tests/
+examples/
+.github/
+.vscode/
+.idea/
+*.log
+*.tgz
+.DS_Store
+coverage/
+.gitignore
+temp_test_*.json

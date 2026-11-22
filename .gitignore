@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tar.gz
+*.tgz
+.DS_Store
+coverage/
+.nyc_output/
+*.json-report.json
+temp_test_*.json
+examples/*-trace.json
